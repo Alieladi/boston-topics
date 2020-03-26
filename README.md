@@ -1,4 +1,7 @@
-# Installation:
+# Installation
+The code runs with no issues using Python versions 3.\*.
+Install NumPy, Pandas, Plotly and Spacy.
+
 libraries and what version of python you are using should be noted.
 Motivation
 		File descriptions: Guide others through the files in your repository.
